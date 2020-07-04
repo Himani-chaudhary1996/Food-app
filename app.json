@@ -4,7 +4,10 @@
     "slug": "very-special",
     "version": "1.0.0",
     "orientation": "portrait",
+    "entryPoint": "./index.js",
     "icon": "./assets/icon.png",
+    "scheme": "demo",
+    "appKey": "very-special",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -17,7 +20,7 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "com.himani1996.very-special",
     },
     "web": {
       "favicon": "./assets/favicon.png"
