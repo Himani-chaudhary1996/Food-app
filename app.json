@@ -8,6 +8,7 @@
     "icon": "./assets/icon.png",
     "scheme": "demo",
     "appKey": "very-special",
+    "platforms": ["web"],
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -20,7 +21,7 @@
       "**/*"
     ],
     "ios": {
-      "bundleIdentifier": "com.himani1996.very-special",
+      "bundleIdentifier": "com.himani1996.very-special"
     },
     "web": {
       "favicon": "./assets/favicon.png"
