@@ -9,7 +9,7 @@ import  name  from './app.json'
 AppRegistry.registerComponent('very-special', () => App);
 
 if (Platform.OS === 'web') {
-    AppRegistry.runApplication(very-special, {
+    AppRegistry.runApplication("very-special", {
         rootTag: document.getElementById('root'),
     });
 }
