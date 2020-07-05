@@ -22,6 +22,8 @@
 
 - download the expo client from playstore/apple store
 - scan the bar code and app will open
+- or you can see the demo at https://expo.io/dashboard/himani1996/very-special
+- you can publish your own app in expo using `expo publish`
 
 ### Start the web version
 
