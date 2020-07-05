@@ -13,7 +13,7 @@
 
 ## Getting started
 - clone the app
-- create a react native project with `expo init very-special`
+- create a react native project with `expo init very-special`(to be investigated further)
 - replace the content of your project with the repo
 - run `npm install --save`
 - start your project with `expo start`
